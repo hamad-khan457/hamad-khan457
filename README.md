@@ -102,9 +102,6 @@
 ![GitHub Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
-<!-- Keep streaks and trophies as they are, or replace them with GitHubCard -->
-![Streak Stats](https://streak-stats.demolab.com/?user=hamad-khan457&theme=tokyonight&v=1)
-![Trophies](https://github-profile-trophy.vercel.app/?username=hamad-khan457&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&v=1)
 
 </div>
 
