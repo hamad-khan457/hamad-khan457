@@ -99,11 +99,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamad-khan457&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hamad-khan457&layout=compact&theme=tokyonight&langs_count=8&v=1)
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
+<!-- Keep streaks and trophies as they are, or replace them with GitHubCard -->
 ![Streak Stats](https://streak-stats.demolab.com/?user=hamad-khan457&theme=tokyonight&v=1)
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=hamad-khan457&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&v=1)
 
 </div>
