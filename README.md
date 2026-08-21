@@ -97,18 +97,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hamad-khan457&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamad-khan457&layout=compact&theme=tokyonight&langs_count=8&v=1" alt="top languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hamad-khan457&theme=tokyonight&v=1" alt="streak stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamad-khan457&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hamad-khan457&layout=compact&theme=tokyonight&langs_count=8&v=1)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamad-khan457&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&v=1" alt="trophies" />
-</p>
+![Streak Stats](https://streak-stats.demolab.com/?user=hamad-khan457&theme=tokyonight&v=1)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=hamad-khan457&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&v=1)
+
+</div>
 
 ---
 
